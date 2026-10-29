@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:02,960
+Hello and welcome to the transcription pipeline demo.
+
+2
+00:00:03,760 --> 00:00:07,040
+This audio file was generated with a text to speech engine.
+
+3
+00:00:07,840 --> 00:00:13,840
+The pipeline converts audio into text, and returns time stamps for every segment.

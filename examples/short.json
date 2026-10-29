@@ -1,0 +1,49 @@
+{
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 2.96,
+      "text": "Hello and welcome to the transcription pipeline demo.",
+      "avg_logprob": -0.2584745814633924,
+      "no_speech_prob": 0.0024992043618112803,
+      "words": null
+    },
+    {
+      "id": 1,
+      "start": 3.76,
+      "end": 7.04,
+      "text": "This audio file was generated with a text to speech engine.",
+      "avg_logprob": -0.2584745814633924,
+      "no_speech_prob": 0.0024992043618112803,
+      "words": null
+    },
+    {
+      "id": 2,
+      "start": 7.84,
+      "end": 13.84,
+      "text": "The pipeline converts audio into text, and returns time stamps for every segment.",
+      "avg_logprob": -0.2584745814633924,
+      "no_speech_prob": 0.0024992043618112803,
+      "words": null
+    }
+  ],
+  "language": "en",
+  "duration": 13.952,
+  "source": {
+    "format_name": "mp3",
+    "codec": "mp3",
+    "sample_rate": 22050,
+    "channels": 1,
+    "duration": 13.951882,
+    "size_bytes": 112474
+  },
+  "metadata": {
+    "engine": "faster-whisper:base",
+    "chunks": 1,
+    "chunks_resumed_from_checkpoint": 0,
+    "processing_seconds": 2.52,
+    "real_time_factor": 0.18
+  },
+  "text": "Hello and welcome to the transcription pipeline demo. This audio file was generated with a text to speech engine. The pipeline converts audio into text, and returns time stamps for every segment."
+}

@@ -1,0 +1,58 @@
+[00:00:00.000 - 00:00:03.400] This is a longer recording use to test chunking.
+[00:00:03.400 - 00:00:06.800] The quick brown fox jumps over the lazy dog.
+[00:00:06.800 - 00:00:10.400] Engineering decisions matter more than model training.
+[00:00:10.400 - 00:00:18.200] We cut long audio at quiet points, transcribe each piece, and stitch the results back together on one timeline.
+[00:00:18.200 - 00:00:21.600] This is a longer recording use to test chunking.
+[00:00:21.600 - 00:00:25.000] The quick brown fox jumps over the lazy dog.
+[00:00:25.000 - 00:00:28.600] Engineering decisions matter more than model training.
+[00:00:28.600 - 00:00:35.600] We cut long audio at quiet points, transcribe each piece, and stitch the results back together on one timeline.
+[00:00:36.150 - 00:00:40.010] This is a longer recording used to test chunking.
+[00:00:40.010 - 00:00:43.850] The quick brown fox jumps over the lazy dog.
+[00:00:43.850 - 00:00:46.970] Engineering decisions matter more than model training.
+[00:00:46.970 - 00:00:52.730] We cut long audio at quiet points, transcribe each piece, and stitch the results back together
+[00:00:52.730 - 00:00:54.890] on one timeline.
+[00:00:54.890 - 00:00:58.210] This is a longer recording used to test chunking.
+[00:00:58.210 - 00:01:02.050] The quick brown fox jumps over the lazy dog.
+[00:01:02.050 - 00:01:05.170] Engineering decisions matter more than model training.
+[00:01:05.170 - 00:01:10.930] We cut long audio at quiet points, transcribe each piece, and stitch the results back together
+[00:01:10.930 - 00:01:12.050] on one timeline.
+[00:01:12.590 - 00:01:16.430] This is a longer recording used to test chunking.
+[00:01:16.430 - 00:01:20.270] The quick brown fox jumps over the lazy dog.
+[00:01:20.270 - 00:01:23.390] Engineering decisions matter more than model training.
+[00:01:23.390 - 00:01:29.150] We cut long audio at quiet points, transcribe each piece, and stitch the results back together
+[00:01:29.150 - 00:01:31.310] on one timeline.
+[00:01:31.310 - 00:01:34.630] This is a longer recording used to test chunking.
+[00:01:34.630 - 00:01:38.470] The quick brown fox jumps over the lazy dog.
+[00:01:38.470 - 00:01:41.590] Engineering decisions matter more than model training.
+[00:01:41.590 - 00:01:47.350] We cut long audio at quiet points, transcribe each piece, and stitch the results back together
+[00:01:47.350 - 00:01:48.470] on one timeline.
+[00:01:49.010 - 00:01:52.850] This is a longer recording used to test chunking.
+[00:01:52.850 - 00:01:56.690] The quick brown fox jumps over the lazy dog.
+[00:01:56.690 - 00:01:59.810] Engineering decisions matter more than model training.
+[00:01:59.810 - 00:02:05.570] We cut long audio at quiet points, transcribe each piece, and stitch the results back together
+[00:02:05.570 - 00:02:07.730] on one timeline.
+[00:02:07.730 - 00:02:11.050] This is a longer recording used to test chunking.
+[00:02:11.050 - 00:02:14.890] The quick brown fox jumps over the lazy dog.
+[00:02:14.890 - 00:02:18.010] Engineering decisions matter more than model training.
+[00:02:18.010 - 00:02:23.770] We cut long audio at quiet points, transcribe each piece, and stitch the results back together
+[00:02:23.770 - 00:02:24.930] on one timeline.
+[00:02:25.430 - 00:02:29.270] This is a longer recording used to test chunking.
+[00:02:29.270 - 00:02:33.110] The quick brown fox jumps over the lazy dog.
+[00:02:33.110 - 00:02:36.230] Engineering decisions matter more than model training.
+[00:02:36.230 - 00:02:41.990] We cut long audio at quiet points, transcribe each piece, and stitch the results back together
+[00:02:41.990 - 00:02:44.150] on one timeline.
+[00:02:44.150 - 00:02:47.470] This is a longer recording used to test chunking.
+[00:02:47.470 - 00:02:51.310] The quick brown fox jumps over the lazy dog.
+[00:02:51.310 - 00:02:54.430] Engineering decisions matter more than model training.
+[00:02:54.430 - 00:03:00.190] We cut long audio at quiet points, transcribe each piece, and stitch the results back together
+[00:03:00.190 - 00:03:01.350] on one timeline.
+[00:03:01.870 - 00:03:05.710] This is a longer recording use to test chunking.
+[00:03:05.710 - 00:03:09.550] The quick brown fox jumps over the lazy dog.
+[00:03:09.550 - 00:03:12.670] Engineering decisions matter more than model training.
+[00:03:12.670 - 00:03:18.430] We cut long audio at quiet points, transcribe each piece, and stitch the results back together
+[00:03:18.430 - 00:03:20.590] on one timeline.
+[00:03:20.590 - 00:03:23.910] This is a longer recording use to test chunking.
+[00:03:23.910 - 00:03:27.750] The quick brown fox jumps over the lazy dog.
+[00:03:27.750 - 00:03:30.870] Engineering decisions matter more than model training.
+[00:03:30.870 - 00:03:36.630] We cut long audio at quiet points, transcribe each piece, and stitch the results back together
+[00:03:36.630 - 00:03:37.750] on one timeline.
